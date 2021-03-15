@@ -1,0 +1,8 @@
+prefix=/home/asl/catkin_ws_ii/devel
+exec_prefix=/home/asl/catkin_ws_ii/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2020.12.12
+Cflags: -I${includedir}

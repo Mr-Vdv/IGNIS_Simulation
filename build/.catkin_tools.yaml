@@ -1,0 +1,6 @@
+devel_space: /home/asl/catkin_ws_ii/devel
+install: false
+install_space: /home/asl/catkin_ws_ii/install
+profile: default
+source_space: /home/asl/catkin_ws_ii/src
+workspace: /home/asl/catkin_ws_ii

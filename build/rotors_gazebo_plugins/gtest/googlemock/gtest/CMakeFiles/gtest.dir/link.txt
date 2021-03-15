@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/asl/catkin_ws_ii/build/rotors_gazebo_plugins/gtest/googlemock/gtest/src -Wl,-rpath,/home/asl/catkin_ws_ii/build/rotors_gazebo_plugins/gtest/googlemock/gtest/src -lpthread 
